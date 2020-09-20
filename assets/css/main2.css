@@ -1,8 +1,19 @@
 .contenido {
-    background: white;
-    width: 1100px; ;
+    background: #c7c7c7  ;
+    width: 1000px; ;
+    margin: 0 auto;
   }
-  .raimbow h1{
+  body {
+    background-image: url(" https://i.pinimg.com/originals/27/ac/45/27ac4547aaf0bd90d1ab2990f10285b2.jpg");
+    height: 100vh;
+    background-color: red;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+ 
+.raimbow h1{
       color:black;
       width: 75%;
        
@@ -16,6 +27,24 @@
   .raimbow h4   {
       color: blue;
   }
+
+
+  .nueva-tempo h1{
+    color: black;
+    width: 85%;
+  }
+
+  .nueva-tempo p{
+    color: black;
+    margin-right: 75%;
+    width: 75%;
+    font-size: 20px;
+  }
+  .nueva-tempo h3{
+    color: black;
+    width: 85%;
+  }
+
 
   .animatio p{
       color: black;
